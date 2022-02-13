@@ -1,0 +1,1 @@
+[{"module_name":"store_items","record_name_singular":"store item","record_name_plural":"store items","identifier_column":"item_title"},{"module_name":"item_sizes","record_name_singular":"item size","record_name_plural":"item sizes","identifier_column":"size_description"},{"relationship_type":"many to many"}]
